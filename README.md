@@ -1,11 +1,19 @@
-Hi 👋 I'm Said — CS student at TU Berlin.
+Hi 👋 I'm Said — CS student at TU Berlin, currently building Obiva.
 
 - 🐍 Python: automation, APIs, CLI tools
+- 🧩 TypeScript: React Native, Expo, SaaS product work
+- 🗄️ Supabase/PostgreSQL: auth, data modeling, RLS, server-side workflows
 - ⚙️ C++: performance, data structures, tooling
 - 📍 Berlin, Germany (CET/CEST)
 - 📫 Best way to reach me: GitHub or Email
 
 ## Featured
+- **Obiva** — closed-beta SaaS platform for camps, school trips, and multi-day group events  
+  Built with TypeScript, React Native/Expo, Supabase/PostgreSQL, Vercel, Cloudflare, and Sentry.  
+  Live: https://obiva.de  
+  Showcase: https://github.com/saido-11/obiva-showcase  
+  Main repository is private while the product is in beta development.
+
 - **bvg-board** — live BVG departures + weather terminal dashboard  
   https://github.com/saido-11/bvg-board
 - **log-sheriff** — C++20 CLI to stream large logs & summarize recurring patterns  
